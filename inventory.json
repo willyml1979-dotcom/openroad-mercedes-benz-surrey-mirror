@@ -1,6 +1,6 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-09-26T20:19:57",
+  "generated_at": "2026-10-08T14:43:11",
   "vehicle_count": 124,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "5J8TB1H57AA802281",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "At W Tech. Pkg",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/a5af2e1cbd78.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2010-Acura-RDX-id14276865.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2010-Acura-RDX-id14276865.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 124123,
       "year": 2010,
       "make": "Acura",
-      "model": "RDX At W Tech. Pkgin Surrey",
-      "condition": "used"
+      "model": "RDX",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2010 Acura RDX ",
@@ -36,7 +39,9 @@
       "year": 2010,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Jaguar F-TYPE ",
@@ -52,13 +57,16 @@
       "year": 2015,
       "make": "Jaguar",
       "model": "F-TYPE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Jeep Compass 4x4 Sport / Northin Surrey",
       "vin": "1C4NJDAB8FD108796",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/49510278c87f.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2015-Jeep-Compass-id14284659.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2015-Jeep-Compass-id14284659.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -68,8 +76,10 @@
       "odometer_km": 132314,
       "year": 2015,
       "make": "Jeep",
-      "model": "Compass 4x4 Sport / Northin Surrey",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Jeep Compass ",
@@ -85,7 +95,9 @@
       "year": 2015,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Jeep Compass ",
@@ -101,7 +113,9 @@
       "year": 2015,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Jeep Compass ",
@@ -117,13 +131,16 @@
       "year": 2015,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Toyota Sienna Ltd 7-Pass V6 6ain Surrey",
       "vin": "5TDDK3DC2FS102245",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Ltd 7-Pass V6 6a",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/cf3b72dde71d.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2015-Toyota-Sienna-id14349811.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2015-Toyota-Sienna-id14349811.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -133,8 +150,10 @@
       "odometer_km": 102561,
       "year": 2015,
       "make": "Toyota",
-      "model": "Sienna Ltd 7-Pass V6 6ain Surrey",
-      "condition": "used"
+      "model": "Sienna",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2015 Toyota Sienna ",
@@ -150,7 +169,9 @@
       "year": 2015,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 BMW M4 ",
@@ -166,13 +187,16 @@
       "year": 2016,
       "make": "BMW",
       "model": "M4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 Jeep Cherokee 4x4 Trailhawkin Surrey",
       "vin": "1C4PJMBS5GW186305",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "Trailhawk",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/2c653a35dcdd.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2016-Jeep-Cherokee-id14410643.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2016-Jeep-Cherokee-id14410643.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -182,8 +206,10 @@
       "odometer_km": 192148,
       "year": 2016,
       "make": "Jeep",
-      "model": "Cherokee 4x4 Trailhawkin Surrey",
-      "condition": "used"
+      "model": "Cherokee",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2016 Jeep Cherokee ",
@@ -199,7 +225,9 @@
       "year": 2016,
       "make": "Jeep",
       "model": "Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Cadillac Escalade ",
@@ -215,13 +243,16 @@
       "year": 2017,
       "make": "Cadillac",
       "model": "Escalade",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLC 300 SUVin Surrey",
       "vin": "WDC0G4KB1HV008344",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/92d78d49116a.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2017-Mercedes_Benz-GLC_300-id14368419.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2017-Mercedes_Benz-GLC_300-id14368419.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -231,14 +262,17 @@
       "odometer_km": 120014,
       "year": 2017,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 SUVin Surrey",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLC 300 ",
       "vin": "WDC0G4KB1HV008344",
       "stock": 14368419,
       "color": "White",
+      "trim": "300",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/5124397d82e4.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/less-than-20000.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/less-than-20000.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -247,14 +281,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Mercedes-Benz",
-      "model": "GLC 300",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLC 300 ",
       "vin": "WDC0G4KB1HV008344",
       "stock": 14368419,
       "color": "White",
+      "trim": "300",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/e327391d7219.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/less-than-30000.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/less-than-30000.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -263,14 +300,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Mercedes-Benz",
-      "model": "GLC 300",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLC 300 ",
       "vin": "WDC0G4KB1HV008344",
       "stock": 14368419,
       "color": "White",
+      "trim": "300",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/5124397d82e4.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/less-than-20000.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/less-than-20000.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -279,14 +319,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Mercedes-Benz",
-      "model": "GLC 300",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLC 300 ",
       "vin": "WDC0G4KB1HV008344",
       "stock": 14368419,
       "color": "White",
+      "trim": "300",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e327391d7219.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/less-than-30000.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/less-than-30000.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -295,14 +338,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Mercedes-Benz",
-      "model": "GLC 300",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Elantra GLin Surrey",
       "vin": "KMHD84LF3JU552017",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "GL",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/aed7321b161c.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2018-Hyundai-Elantra-id14416553.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2018-Hyundai-Elantra-id14416553.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -312,8 +358,10 @@
       "odometer_km": 159409,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Elantra GLin Surrey",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Elantra ",
@@ -329,7 +377,9 @@
       "year": 2018,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Land Rover Land Rover Discovery Sport 286hp Hsein Surrey",
@@ -346,7 +396,9 @@
       "year": 2018,
       "make": "Land",
       "model": "Rover Land Rover Discovery Sport 286hp Hsein Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Lexus RX ",
@@ -362,13 +414,16 @@
       "year": 2018,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Volvo XC90 T6 Awd Inscriptionin Surrey",
       "vin": "YV4A22PL7J1191483",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "T6 Inscription",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/beb43a627acb.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2018-Volvo-XC90-id14308490.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2018-Volvo-XC90-id14308490.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -378,8 +433,10 @@
       "odometer_km": 91104,
       "year": 2018,
       "make": "Volvo",
-      "model": "XC90 T6 Awd Inscriptionin Surrey",
-      "condition": "used"
+      "model": "XC90",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Volvo XC90 ",
@@ -395,13 +452,16 @@
       "year": 2018,
       "make": "Volvo",
       "model": "XC90",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda CX-5 Signature Awd Atin Surrey",
       "vin": "JM3KFBEY8K0534729",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Signature At",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/6f00621dad7e.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2019-Mazda-CX_5-id14228761.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2019-Mazda-CX_5-id14228761.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -411,8 +471,10 @@
       "odometer_km": 36496,
       "year": 2019,
       "make": "Mazda",
-      "model": "CX-5 Signature Awd Atin Surrey",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda CX-5 ",
@@ -428,13 +490,16 @@
       "year": 2019,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Tesla Model 3 Standard Range Plusin Surrey",
       "vin": "5YJ3E1EA9KF414310",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Standard Range Plus",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/6a3c9e8fe916.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2019-Tesla-Model_3-id14401962.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2019-Tesla-Model_3-id14401962.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,8 +509,10 @@
       "odometer_km": 67463,
       "year": 2019,
       "make": "Tesla",
-      "model": "Model 3 Standard Range Plusin Surrey",
-      "condition": "used"
+      "model": "Model 3",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Tesla Model 3 ",
@@ -461,13 +528,16 @@
       "year": 2019,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Honda Civic Sedan Lx Cvtin Surrey",
       "vin": "2HGFC2F51LH022834",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Lx",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/dbf5fdf58002.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2020-Honda-Civic-id14270328.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2020-Honda-Civic-id14270328.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -477,8 +547,10 @@
       "odometer_km": 59499,
       "year": 2020,
       "make": "Honda",
-      "model": "Civic Sedan Lx Cvtin Surrey",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Honda Civic ",
@@ -494,13 +566,16 @@
       "year": 2020,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2020 Mercedes-Benz GLE 350 4MATIC SUVin Surrey",
       "vin": "4JGFB4KB5LA063681",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "350 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/2fbc5e5f542e.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2020-Mercedes_Benz-GLE_350-id14389635.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2020-Mercedes_Benz-GLE_350-id14389635.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -510,14 +585,17 @@
       "odometer_km": 103955,
       "year": 2020,
       "make": "Mercedes-Benz",
-      "model": "GLE 350 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Elantra Preferred Ivtin Surrey",
       "vin": "KMHLM4AG8MU098581",
       "stock": "NUMBER",
       "color": "Electric Shadow",
+      "trim": "Preferred Ivt",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/6d93e792092f.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2021-Hyundai-Elantra-id14270332.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2021-Hyundai-Elantra-id14270332.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,8 +605,10 @@
       "odometer_km": 67129,
       "year": 2021,
       "make": "Hyundai",
-      "model": "Elantra Preferred Ivtin Surrey",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Hyundai Elantra ",
@@ -544,13 +624,16 @@
       "year": 2021,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sportage Ex Premium S Awdin Surrey",
       "vin": "KNDPNCAC8M7869453",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Ex Premium S",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/23f2b7889266.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2021-Kia-Sportage-id14389631.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2021-Kia-Sportage-id14389631.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -560,8 +643,10 @@
       "odometer_km": 60007,
       "year": 2021,
       "make": "Kia",
-      "model": "Sportage Ex Premium S Awdin Surrey",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Sportage ",
@@ -577,7 +662,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 BMW M3 ",
@@ -593,13 +680,16 @@
       "year": 2022,
       "make": "BMW",
       "model": "M3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 MINI Cooper Hardtop Se 3 Doorin Surrey",
       "vin": "WMW13DJ09N2S02667",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Hardtop Se 3 Door",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/291d7757bada.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2022-MINI-Cooper_Hardtop-id14423915.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2022-MINI-Cooper_Hardtop-id14423915.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -609,14 +699,17 @@
       "odometer_km": 52992,
       "year": 2022,
       "make": "MINI",
-      "model": "Cooper Hardtop Se 3 Doorin Surrey",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 MINI Cooper Hardtop ",
       "vin": "WMW13DJ09N2S02667",
       "stock": 14423915,
       "color": "Grey",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/9ca1d99508f7.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2022-MINI-Cooper_Hardtop.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2022-MINI-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -625,8 +718,10 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz AMG C 43 4MATIC Coupein Surrey",
@@ -643,13 +738,16 @@
       "year": 2022,
       "make": "Mercedes-Benz",
       "model": "AMG C 43 4MATIC Coupein Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB0NJ373663",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/028fed71bf26.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLA_250-id14349810.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLA_250-id14349810.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -659,14 +757,17 @@
       "odometer_km": 46650,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLC 300 4MATIC SUVin Surrey",
       "vin": "W1N0G8EB9NV392984",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "300 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/e0707a24b7e5.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLC_300-id14253404.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLC_300-id14253404.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -676,14 +777,17 @@
       "odometer_km": 47490,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLC 300 4MATIC SUVin Surrey",
       "vin": "W1N0G8EB7NV380736",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/aa28393a66b1.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLC_300-id14352120.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLC_300-id14352120.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -693,14 +797,17 @@
       "odometer_km": 56674,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLC 300 4MATIC SUVin Surrey",
       "vin": "W1N0G8EB9NV378633",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/4ff0c1770169.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLC_300-id14362836.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLC_300-id14362836.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -710,14 +817,17 @@
       "odometer_km": 38265,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLC 300 4MATIC SUVin Surrey",
       "vin": "W1N0G8EB5NV377348",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "300 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/b10e5c16c6c5.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLC_300-id14410641.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2022-Mercedes_Benz-GLC_300-id14410641.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -727,14 +837,17 @@
       "odometer_km": 63694,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Rogue Sl Awd Cvtin Surrey",
       "vin": "JN8BT3CBXNW339193",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Sl",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/576a01481e23.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2022-Nissan-Rogue-id14289879.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2022-Nissan-Rogue-id14289879.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -744,8 +857,10 @@
       "odometer_km": 61385,
       "year": 2022,
       "make": "Nissan",
-      "model": "Rogue Sl Awd Cvtin Surrey",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Rogue ",
@@ -761,7 +876,9 @@
       "year": 2022,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model S ",
@@ -777,7 +894,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model S",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model Y ",
@@ -793,7 +912,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen ID.4 ",
@@ -809,7 +930,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "ID.4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Audi e-tron ",
@@ -825,7 +948,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "e-tron",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Audi e-tron ",
@@ -841,7 +966,9 @@
       "year": 2023,
       "make": "Audi",
       "model": "e-tron",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV60 ",
@@ -857,7 +984,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV70 ",
@@ -873,7 +1002,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV60 ",
@@ -889,7 +1020,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV60",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV70 ",
@@ -905,7 +1038,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV70",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Honda CR-V ",
@@ -921,7 +1056,9 @@
       "year": 2023,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Honda CR-V ",
@@ -937,7 +1074,9 @@
       "year": 2023,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Kona Electric ",
@@ -953,7 +1092,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Kona Electric ",
@@ -969,13 +1110,16 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona Electric",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz CLA 250 4MATIC Coupein Surrey",
       "vin": "W1K5J4HBXPN386591",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC Coupe",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/f80ce14f382f.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2023-Mercedes_Benz-CLA_250-id14423916.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2023-Mercedes_Benz-CLA_250-id14423916.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -985,8 +1129,10 @@
       "odometer_km": 48436,
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "CLA 250 4MATIC Coupein Surrey",
-      "condition": "used"
+      "model": "CLA",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz E 450 4MATIC Sedanin Surrey",
@@ -1003,13 +1149,16 @@
       "year": 2023,
       "make": "Mercedes-Benz",
       "model": "E 450 4MATIC Sedanin Surrey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB5PJ523771",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/02c6e120586b.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2023-Mercedes_Benz-GLA_250-id14410640.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2023-Mercedes_Benz-GLA_250-id14410640.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1019,8 +1168,10 @@
       "odometer_km": 52914,
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Ariya ",
@@ -1036,7 +1187,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Ariya",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model Y ",
@@ -1052,13 +1205,16 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen ID.4 Pro Awdin Surrey",
       "vin": "1V2GNPE89PC006331",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Pro",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/1a09776eaec8.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2023-Volkswagen-ID.4-id14389632.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2023-Volkswagen-ID.4-id14389632.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1068,8 +1224,10 @@
       "odometer_km": 103947,
       "year": 2023,
       "make": "Volkswagen",
-      "model": "ID.4 Pro Awdin Surrey",
-      "condition": "used"
+      "model": "ID.4",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen ID.4 ",
@@ -1085,7 +1243,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "ID.4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen ID.4 ",
@@ -1101,7 +1261,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "ID.4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Cadillac LYRIQ ",
@@ -1117,7 +1279,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "LYRIQ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Cadillac LYRIQ ",
@@ -1133,7 +1297,9 @@
       "year": 2024,
       "make": "Cadillac",
       "model": "LYRIQ",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Mustang Mach-E ",
@@ -1149,7 +1315,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Mustang Mach-E ",
@@ -1165,7 +1333,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Genesis GV60 ",
@@ -1181,7 +1351,9 @@
       "year": 2024,
       "make": "Genesis",
       "model": "GV60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Genesis GV60 ",
@@ -1197,7 +1369,9 @@
       "year": 2024,
       "make": "Genesis",
       "model": "GV60",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus UX ",
@@ -1213,7 +1387,9 @@
       "year": 2024,
       "make": "Lexus",
       "model": "UX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Lexus UX ",
@@ -1229,13 +1405,16 @@
       "year": 2024,
       "make": "Lexus",
       "model": "UX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 MINI Cooper Hardtop ",
       "vin": "WMW13DJ05R2V32442",
       "stock": 14401963,
       "color": "Red",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/24b62ca593cf.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2024-Mini-Cooper_Hardtop.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2024-Mini-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1244,14 +1423,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "used"
+      "model": "Cooper",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 MINI Cooper Hardtop ",
       "vin": "WMW13DJ05R2V32442",
       "stock": 14401963,
       "color": "Red",
+      "trim": "Hardtop",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/24b62ca593cf.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2024-Mini-Cooper_Hardtop.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2024-Mini-Cooper_Hardtop.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1260,8 +1442,10 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "MINI",
-      "model": "Cooper Hardtop",
-      "condition": "new"
+      "model": "Cooper",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X2 ",
@@ -1277,7 +1461,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X2",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 BMW X2 ",
@@ -1293,7 +1479,9 @@
       "year": 2025,
       "make": "BMW",
       "model": "X2",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1309,7 +1497,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -1325,13 +1515,16 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai IONIQ 5 N ",
       "vin": "KM8KNDA83SU005979",
       "stock": 14389625,
       "color": "Black",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/9fc4277234bf.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2025-Hyundai-IONIQ_5_N.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2025-Hyundai-IONIQ_5_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1340,14 +1533,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Hyundai",
-      "model": "IONIQ 5 N",
-      "condition": "used"
+      "model": "IONIQ 5",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai IONIQ 5 N ",
       "vin": "KM8KNDA83SU005979",
       "stock": 14389625,
       "color": "Black",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/9fc4277234bf.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2025-Hyundai-IONIQ_5_N.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2025-Hyundai-IONIQ_5_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1356,8 +1552,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Hyundai",
-      "model": "IONIQ 5 N",
-      "condition": "new"
+      "model": "IONIQ 5",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus IS ",
@@ -1373,7 +1571,9 @@
       "year": 2025,
       "make": "Lexus",
       "model": "IS",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Lexus IS ",
@@ -1389,13 +1589,16 @@
       "year": 2025,
       "make": "Lexus",
       "model": "IS",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz GLC 300 4MATIC SUVin Surrey",
       "vin": "W1NKM4HB5SF308834",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "300 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/27fa1bbf190e.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-GLC_300-id14377031.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-GLC_300-id14377031.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1405,14 +1608,17 @@
       "odometer_km": 12023,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz GLC 300 4MATIC SUVin Surrey",
       "vin": "W1NKM4HB3SF402159",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/f72212942144.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-GLC_300-id14382657.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-GLC_300-id14382657.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1422,14 +1628,17 @@
       "odometer_km": 6446,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz GLE 350 4MATIC SUVin Surrey",
       "vin": "4JGFB4FB9SB327861",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "350 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/c203fcc5beec.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-GLE_350-id14313088.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-GLE_350-id14313088.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1439,14 +1648,17 @@
       "odometer_km": 42584,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "GLE 350 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz GLE 450 4MATIC SUVin Surrey",
       "vin": "4JGFB5KB2SB339085",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "450 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/78e3ee93cce8.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-GLE_450-id14389633.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-GLE_450-id14389633.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1456,14 +1668,17 @@
       "odometer_km": 7239,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "GLE 450 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4 Diesel 170\"in Surrey",
       "vin": "W1Y4KCHY5SP796872",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van 2500 High Roof I4 Diesel 170\"",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/11e7c615cd3f.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-Sprinter_Cargo_Van-id14289877.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2025-Mercedes_Benz-Sprinter_Cargo_Van-id14289877.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1473,8 +1688,10 @@
       "odometer_km": 30581,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4 Diesel 170\"in Surrey",
-      "condition": "used"
+      "model": "Sprinter",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen ID. Buzz ",
@@ -1490,13 +1707,16 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "ID. Buzz",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta Comfortline Autoin Surrey",
       "vin": "3VWEX7BU0SM071688",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Comfortline Auto",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/45466b8e12a4.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2025-Volkswagen-Jetta-id14389626.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2025-Volkswagen-Jetta-id14389626.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1506,8 +1726,10 @@
       "odometer_km": 33320,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline Autoin Surrey",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta ",
@@ -1523,7 +1745,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen ID. Buzz ",
@@ -1539,7 +1763,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "ID. Buzz",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Jetta ",
@@ -1555,7 +1781,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe ",
@@ -1571,7 +1799,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe ",
@@ -1587,7 +1817,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -1603,7 +1835,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -1619,7 +1853,9 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 MINI Countryman ",
@@ -1635,13 +1871,16 @@
       "year": 2026,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz CLA 250 4MATIC Coupein Surrey",
       "vin": "W1K5J4HB8TN573094",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC Coupe",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/cf4a065d741c.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2026-Mercedes_Benz-CLA_250-id14389634.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2026-Mercedes_Benz-CLA_250-id14389634.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1651,14 +1890,17 @@
       "odometer_km": 29909,
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "CLA 250 4MATIC Coupein Surrey",
-      "condition": "used"
+      "model": "CLA",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLE 350 4MATIC SUVin Surrey",
       "vin": "4JGFB4FBXTB522515",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "350 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/b91a474a71a2.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2026-Mercedes_Benz-GLE_350-id14389628.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2026-Mercedes_Benz-GLE_350-id14389628.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1668,14 +1910,17 @@
       "odometer_km": 22064,
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLE 350 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLS 450 4MATIC SUVin Surrey",
       "vin": "4JGFF5KE1TB514524",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "450 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/31635cd9418d.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2026-Mercedes_Benz-GLS_450-id14389627.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2026-Mercedes_Benz-GLS_450-id14389627.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1685,14 +1930,17 @@
       "odometer_km": 25947,
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLS 450 4MATIC SUVin Surrey",
-      "condition": "used"
+      "model": "GLS",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB4TJ871071",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/7c784171b16b.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14150506.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14150506.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1701,14 +1949,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB2TJ894932",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/376305d8a9f1.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14258758.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14258758.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1717,14 +1968,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB2TJ896499",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/4d0bf85713ab.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14258759.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14258759.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1733,14 +1987,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB9TJ896516",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/1a89a3511fd2.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14258760.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14258760.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1749,14 +2006,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HBXTJ897030",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/2ff97e98154d.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14264553.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14264553.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1765,14 +2025,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB2TJ898849",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/168795af171d.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14264554.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14264554.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1781,14 +2044,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB4TJ891076",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/4381748fb3d7.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14302251.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14302251.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1797,14 +2063,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB9TJ896676",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/f4a8ca8580d4.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14302252.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14302252.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1813,14 +2082,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB7TJ906296",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ffff59d4b999.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14357056.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14357056.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1829,14 +2101,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB9TJ906736",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ff46e7c4c876.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14357057.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14357057.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1845,14 +2120,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB3TJ906747",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e31bc740c62b.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14357058.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14357058.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1861,14 +2139,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB6TJ907374",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/eee7e042f455.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14362839.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14362839.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1877,14 +2158,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB8TJ871395",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/f920056f418e.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14377033.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14377033.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1893,14 +2177,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB5TJ906443",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/537e8ad53963.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14429825.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14429825.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1909,14 +2196,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLB 250 4MATIC SUVin Surrey",
       "vin": "W1N4M4HB7TW481751",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/46867571cd81.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14282287.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14282287.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1925,14 +2215,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLB",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLB 250 4MATIC SUVin Surrey",
       "vin": "W1N4M4HBXTW485860",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e857da011d42.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14282288.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14282288.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1941,14 +2234,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLB",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLB 250 4MATIC SUVin Surrey",
       "vin": "W1N4M4HB5TW493655",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4MATIC SUV",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/16bbaae96cec.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14282289.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14282289.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1957,14 +2253,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4MATIC SUVin Surrey",
-      "condition": "new"
+      "model": "GLB",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Surrey",
       "vin": "W1Y4KBHY3TP948613",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van 2500 Standard Roof I4 Diesel 144\"",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/7fa9a6f854e9.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-Sprinter-id14372774.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/new/inventory/2026-Mercedes_Benz-Sprinter-id14372774.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1973,14 +2272,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Surrey",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Awd Sv Moonroofin Surrey",
       "vin": "JN8BT3BB0TW084892",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Sv Moonroof",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/e4b25b90a52d.html",
       "source_url": "https://www.mercedes-benz-surrey.ca/used/2026-Nissan-Rogue-id14022897.html",
       "dealer_url": "https://www.mercedes-benz-surrey.ca/used/2026-Nissan-Rogue-id14022897.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1990,8 +2292,10 @@
       "odometer_km": 23290,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Awd Sv Moonroofin Surrey",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2007,7 +2311,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2023,7 +2329,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
