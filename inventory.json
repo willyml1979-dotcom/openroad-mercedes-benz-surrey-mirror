@@ -1,6 +1,6 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-10-25T15:14:30",
+  "generated_at": "2026-10-25T23:36:19",
   "vehicle_count": 116,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -658,7 +658,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 39281.0,
+      "price": 39116.0,
       "price_currency": "CAD"
     },
     {
@@ -751,13 +751,13 @@
     },
     {
       "name": "2023 Volkswagen ID.4 ",
-      "vin": "1V2GNPE89PC006331",
+      "vin": "1V29NPE81PC057931",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/949efe91747a.html",
       "year": 2023,
       "make": "Volkswagen",
       "model": "ID.4",
       "condition": "new",
-      "price": 28662.0,
+      "price": 36616.0,
       "price_currency": "CAD"
     },
     {
@@ -812,7 +812,7 @@
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "new",
-      "price": 37221.0,
+      "price": 37116.0,
       "price_currency": "CAD"
     },
     {
