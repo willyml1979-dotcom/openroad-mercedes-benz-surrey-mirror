@@ -1,6 +1,6 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-10-26T00:48:06",
+  "generated_at": "2026-10-26T08:10:00",
   "vehicle_count": 116,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -944,7 +944,7 @@
       "make": "BMW",
       "model": "X2",
       "condition": "new",
-      "price": 35991.0,
+      "price": 35786.0,
       "price_currency": "CAD"
     },
     {
@@ -977,7 +977,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "new",
-      "price": 44928.0,
+      "price": 44611.0,
       "price_currency": "CAD"
     },
     {
@@ -1021,7 +1021,7 @@
       "make": "Lexus",
       "model": "IS",
       "condition": "new",
-      "price": 46998.0,
+      "price": 46616.0,
       "price_currency": "CAD"
     },
     {
@@ -1087,7 +1087,7 @@
       "make": "Volkswagen",
       "model": "ID. Buzz",
       "condition": "new",
-      "price": 63983.0,
+      "price": 63861.0,
       "price_currency": "CAD"
     },
     {
@@ -1098,7 +1098,7 @@
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 24406.0,
+      "price": 24161.0,
       "price_currency": "CAD"
     },
     {
@@ -1131,7 +1131,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "new",
-      "price": 41392.0,
+      "price": 40816.0,
       "price_currency": "CAD"
     },
     {
@@ -1153,7 +1153,7 @@
       "make": "MINI",
       "model": "Countryman",
       "condition": "new",
-      "price": 36626.0,
+      "price": 36461.0,
       "price_currency": "CAD"
     },
     {
