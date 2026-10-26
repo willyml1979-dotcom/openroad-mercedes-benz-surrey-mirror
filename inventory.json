@@ -1,6 +1,6 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-10-26T08:10:00",
+  "generated_at": "2026-10-26T09:14:30",
   "vehicle_count": 116,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -317,7 +317,7 @@
       "make": "Tesla",
       "model": "Model 3",
       "condition": "used",
-      "price": 24870.0,
+      "price": 24661.0,
       "price_currency": "CAD"
     },
     {
@@ -328,7 +328,7 @@
       "make": "Tesla",
       "model": "Model 3",
       "condition": "used",
-      "price": 24870.0,
+      "price": 24661.0,
       "price_currency": "CAD"
     },
     {
@@ -372,7 +372,7 @@
       "make": "Mercedes-Benz",
       "model": "GLE",
       "condition": "used",
-      "price": 37959.0,
+      "price": 37271.0,
       "price_currency": "CAD"
     },
     {
@@ -394,7 +394,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 17464.0,
+      "price": 17411.0,
       "price_currency": "CAD"
     },
     {
@@ -405,7 +405,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 17464.0,
+      "price": 17411.0,
       "price_currency": "CAD"
     },
     {
@@ -416,7 +416,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 20989.0,
+      "price": 20391.0,
       "price_currency": "CAD"
     },
     {
@@ -427,7 +427,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 20989.0,
+      "price": 20391.0,
       "price_currency": "CAD"
     },
     {
@@ -493,7 +493,7 @@
       "make": "BMW",
       "model": "M3",
       "condition": "used",
-      "price": 77922.0,
+      "price": 77816.0,
       "price_currency": "CAD"
     },
     {
@@ -515,7 +515,7 @@
       "make": "MINI",
       "model": "Cooper",
       "condition": "used",
-      "price": 22994.0,
+      "price": 22516.0,
       "price_currency": "CAD"
     },
     {
@@ -548,7 +548,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 35267.0,
+      "price": 35216.0,
       "price_currency": "CAD"
     },
     {
@@ -559,7 +559,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 35462.0,
+      "price": 35116.0,
       "price_currency": "CAD"
     },
     {
@@ -570,7 +570,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 36618.0,
+      "price": 36446.0,
       "price_currency": "CAD"
     },
     {
@@ -581,7 +581,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 34761.0,
+      "price": 34611.0,
       "price_currency": "CAD"
     },
     {
@@ -603,7 +603,7 @@
       "make": "Tesla",
       "model": "Model S",
       "condition": "used",
-      "price": 66653.0,
+      "price": 66541.0,
       "price_currency": "CAD"
     },
     {
@@ -614,7 +614,7 @@
       "make": "Volkswagen",
       "model": "ID.4",
       "condition": "used",
-      "price": 34444.0,
+      "price": 34291.0,
       "price_currency": "CAD"
     },
     {
@@ -725,6 +725,17 @@
       "model": "Ariya",
       "condition": "used",
       "price": 28990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Nissan Ariya Engage Fwdin Surrey",
+      "vin": "JN1AF0BA6PM400529",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/fddbdc9adcee.html",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "used",
+      "price": 32990.0,
       "price_currency": "CAD"
     },
     {
@@ -1154,17 +1165,6 @@
       "model": "Countryman",
       "condition": "new",
       "price": 36461.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mercedes-Benz CLA 250 4MATIC Coupein Surrey",
-      "vin": "W1K5J4HB8TN573094",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/cf4a065d741c.html",
-      "year": 2026,
-      "make": "Mercedes-Benz",
-      "model": "CLA",
-      "condition": "used",
-      "price": 39963.0,
       "price_currency": "CAD"
     },
     {
