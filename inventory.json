@@ -1,138 +1,10 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-10-26T09:14:30",
-  "vehicle_count": 116,
+  "generated_at": "2026-11-17T09:33:59",
+  "vehicle_count": 119,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB4TJ871071",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/7c784171b16b.html",
-      "condition": "new",
-      "price": 64850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB2TJ894932",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/376305d8a9f1.html",
-      "condition": "new",
-      "price": 58650.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB2TJ896499",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/4d0bf85713ab.html",
-      "condition": "new",
-      "price": 62350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB9TJ896516",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/1a89a3511fd2.html",
-      "condition": "new",
-      "price": 63350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HBXTJ897030",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/2ff97e98154d.html",
-      "condition": "new",
-      "price": 62350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB2TJ898849",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/168795af171d.html",
-      "condition": "new",
-      "price": 63350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB4TJ891076",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/4381748fb3d7.html",
-      "condition": "new",
-      "price": 62350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB9TJ896676",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/f4a8ca8580d4.html",
-      "condition": "new",
-      "price": 62350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB7TJ906296",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ffff59d4b999.html",
-      "condition": "new",
-      "price": 62250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB9TJ906736",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ff46e7c4c876.html",
-      "condition": "new",
-      "price": 64250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB3TJ906747",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e31bc740c62b.html",
-      "condition": "new",
-      "price": 61550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB6TJ907374",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/eee7e042f455.html",
-      "condition": "new",
-      "price": 60550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB8TJ871395",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/f920056f418e.html",
-      "condition": "new",
-      "price": 64850.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
-      "vin": "W1N4N4HB5TJ906443",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/537e8ad53963.html",
-      "condition": "new",
-      "price": 61250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Surrey",
-      "vin": "W1N4M4HBXTW485860",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e857da011d42.html",
-      "condition": "new",
-      "price": 66250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Surrey",
-      "vin": "W1Y4KBHY3TP948613",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/7fa9a6f854e9.html",
-      "condition": "new",
-      "price": 67081.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2007 Bentley Continental ",
       "vin": "SCBDR33W97C047550",
@@ -1201,6 +1073,171 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB4TJ871071",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/7c784171b16b.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 64850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB2TJ894932",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/376305d8a9f1.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 58650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB2TJ896499",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/4d0bf85713ab.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 62350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB9TJ896516",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/1a89a3511fd2.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 63350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HBXTJ897030",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/2ff97e98154d.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 62350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB2TJ898849",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/168795af171d.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 63350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB4TJ891076",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/4381748fb3d7.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 62350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB9TJ896676",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/f4a8ca8580d4.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 62350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB7TJ906296",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ffff59d4b999.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 62250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB9TJ906736",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ff46e7c4c876.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 64250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB3TJ906747",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e31bc740c62b.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 61550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB6TJ907374",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/eee7e042f455.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 60550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB8TJ871395",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/f920056f418e.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 64850.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB5TJ906443",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/537e8ad53963.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 61250.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
+      "vin": "W1N4N4HB1TJ906598",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/273da6896ace.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "condition": "new",
+      "price": 62250.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Mercedes-Benz GLB 250 4MATIC SUV demoin Surrey",
       "vin": "W1N4M4HB7TW481751",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/46867571cd81.html",
@@ -1209,6 +1246,17 @@
       "model": "GLB",
       "condition": "new",
       "price": 76620.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Surrey",
+      "vin": "W1N4M4HBXTW485860",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e857da011d42.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 66250.0,
       "price_currency": "CAD"
     },
     {
@@ -1223,6 +1271,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Mercedes-Benz GLB 250 4MATIC SUVin Surrey",
+      "vin": "W1N4M4HB5TW478895",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/6b6a5887b18e.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "condition": "new",
+      "price": 62350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roof I4 Diesel 144\"in Surrey",
+      "vin": "W1Y4KBHY3TP948613",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/7fa9a6f854e9.html",
+      "year": 2026,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter",
+      "condition": "new",
+      "price": 67081.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota Prius Plug-In Hybrid ",
       "vin": "JTDACACU8T3074530",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/b1d93ecbf96e.html",
@@ -1231,6 +1301,17 @@
       "model": "Prius Plug-In Hybrid",
       "condition": "used",
       "price": 36990.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz CLA 250+ Electric RWDin Surrey",
+      "vin": "W1KFJ1DB3VJ082984",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/6a43c17d5752.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "new",
+      "price": 54100.0,
       "price_currency": "CAD"
     }
   ]
