@@ -1,6 +1,6 @@
 # OpenRoad Mercedes Benz Surrey
 
- dealership in Surrey. AI-readable inventory mirror, about 119 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 115 vehicles.
 
 - Official website: https://www.mercedes-benz-surrey.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/
