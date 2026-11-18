@@ -1,7 +1,7 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-11-18T02:08:15",
-  "vehicle_count": 112,
+  "generated_at": "2026-11-18T09:54:17",
+  "vehicle_count": 111,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -294,6 +294,78 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford F-150 2025 for salein Surrey",
+      "vin": "1FTFW3L8XSKE49222",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/91386e233baa.html",
+      "condition": "new",
+      "price": 43356.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai IONIQ 5 N 2025 for salein Surrey",
+      "vin": "KM8KNDA83SU005979",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/9fc4277234bf.html",
+      "condition": "new",
+      "price": 62776.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen 2025 for salein Surrey",
+      "vin": "3VWEX7BU0SM071688",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/fb7ff64ba27a.html",
+      "condition": "new",
+      "price": 23876.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Jetta 2025 for salein Surrey",
+      "vin": "3VWEX7BU0SM071688",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ed33f11b2904.html",
+      "condition": "new",
+      "price": 23876.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2026 for salein Surrey",
+      "vin": "KM8P2DG1XTU176965",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/2418bb3e64bb.html",
+      "condition": "new",
+      "price": 39356.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "MINI Countryman 2026 for salein Surrey",
+      "vin": "WMZ23GA09T7U58459",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/6d9dc5a67130.html",
+      "condition": "new",
+      "price": 34816.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles under $10,000 for salein Surrey",
+      "vin": "1C4NJDAB8FD108796",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/fd0ea08d551a.html",
+      "condition": "new",
+      "price": 6586.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles under $20,000 for salein Surrey",
+      "vin": "1C4NJDAB8FD108796",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/5124397d82e4.html",
+      "condition": "new",
+      "price": 6586.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Pre-Owned Vehicles under $30,000 for salein Surrey",
+      "vin": "WDC0G4KB1KV138065",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e327391d7219.html",
+      "condition": "new",
+      "price": 21766.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2015 Jeep Compass 4x4 Sport / Northin Surrey",
       "vin": "1C4NJDAB8FD108796",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/49510278c87f.html",
@@ -302,28 +374,6 @@
       "model": "Compass",
       "condition": "used",
       "price": 6586.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Jeep Compass ",
-      "vin": "1C4NJDAB8FD108796",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/fd0ea08d551a.html",
-      "year": 2015,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 7994.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Jeep Compass ",
-      "vin": "1C4NJDAB8FD108796",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/5124397d82e4.html",
-      "year": 2015,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "new",
-      "price": 7994.0,
       "price_currency": "CAD"
     },
     {
@@ -445,17 +495,6 @@
       "model": "GLS",
       "condition": "used",
       "price": 44866.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Mercedes-Benz GLA 250 ",
-      "vin": "WDCTG4GB3LJ685921",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/e327391d7219.html",
-      "year": 2020,
-      "make": "Mercedes-Benz",
-      "model": "GLA",
-      "condition": "new",
-      "price": 24990.0,
       "price_currency": "CAD"
     },
     {
@@ -723,39 +762,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150 ",
-      "vin": "1FTFW3L8XSKE49222",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/91386e233baa.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 44611.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai IONIQ 5 N ",
-      "vin": "KM8KNDA83SU005979",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/9fc4277234bf.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "new",
-      "price": 67438.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Lexus IS ",
-      "vin": "JTHC81F20S5055363",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/84070ec5bced.html",
-      "year": 2025,
-      "make": "Lexus",
-      "model": "IS",
-      "condition": "new",
-      "price": 46616.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mercedes-Benz EQB 300 4MATIC SUVin Surrey",
       "vin": "W1N9M0KB2SN140060",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/2b178a3f77dc.html",
@@ -800,28 +806,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Volkswagen ID. Buzz ",
-      "vin": "WVG6YVEB6SH007416",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/fb7ff64ba27a.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "ID. Buzz",
-      "condition": "new",
-      "price": 63861.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Jetta ",
-      "vin": "3VWEX7BU0SM071688",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ed33f11b2904.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 24161.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Audi A3 SEDAN ",
       "vin": "WAUGUCGY0TA016582",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/7428ced579c9.html",
@@ -830,28 +814,6 @@
       "model": "A3 SEDAN",
       "condition": "used",
       "price": 33990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Santa Fe ",
-      "vin": "KM8P2DG1XTU176965",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/2418bb3e64bb.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "new",
-      "price": 40816.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 MINI Countryman ",
-      "vin": "WMZ23GA09T7U58459",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/6d9dc5a67130.html",
-      "year": 2026,
-      "make": "MINI",
-      "model": "Countryman",
-      "condition": "new",
-      "price": 36461.0,
       "price_currency": "CAD"
     },
     {
