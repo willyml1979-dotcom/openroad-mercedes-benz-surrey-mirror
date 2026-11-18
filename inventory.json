@@ -1,7 +1,7 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-11-18T09:54:17",
-  "vehicle_count": 111,
+  "generated_at": "2026-11-18T11:03:42",
+  "vehicle_count": 110,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -70,6 +70,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Elantra 2021 for salein Surrey",
+      "vin": "KMHLM4AG8MU098581",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/8fc933abec8e.html",
+      "condition": "used",
+      "price": 16766.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Palisade 2021 for salein Surrey",
       "vin": "KM8R5DHE9MU307905",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/824d9154d876.html",
@@ -99,14 +107,6 @@
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/9562fc2100f8.html",
       "condition": "used",
       "price": 24866.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota Prius Prime 2022 for salein Surrey",
-      "vin": "JTDKAMFP7N3212031",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/a2d0e788f440.html",
-      "condition": "used",
-      "price": 22990.0,
       "price_currency": "CAD"
     },
     {
@@ -174,6 +174,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Hyundai Tucson Hybrid 2024 for salein Surrey",
+      "vin": "KM8JCCD17RU207986",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/ee31282d77da.html",
+      "condition": "used",
+      "price": 36866.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Kia Niro EV 2024 for salein Surrey",
       "vin": "KNDCP3L12R5079962",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/0c1fa38dc89a.html",
@@ -182,11 +190,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Kicks 2024 for salein Surrey",
+      "vin": "3N1CP5BV6RL537943",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/edd913b1dc67.html",
+      "condition": "used",
+      "price": 19886.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota BZ4X 2024 for salein Surrey",
+      "vin": "JTMABACA2RA052617",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/a74b55927230.html",
+      "condition": "used",
+      "price": 34866.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "BMW X2 2025 for salein Surrey",
       "vin": "WBX63GM02S5347312",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/72804248e1fd.html",
       "condition": "used",
       "price": 35156.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Cadillac OPTIQ 2025 for salein Surrey",
+      "vin": "3GYK3GMR5SS256867",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/ab36bc2e4ffa.html",
+      "condition": "used",
+      "price": 55994.0,
       "price_currency": "CAD"
     },
     {
@@ -230,6 +262,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Audi A3 SEDAN 2026 for salein Surrey",
+      "vin": "WAUGUCGY0TA016582",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/7428ced579c9.html",
+      "condition": "used",
+      "price": 33066.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Honda HR-V 2026 for salein Surrey",
       "vin": "3CZRZ2H51TM102413",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/65e53febbe41.html",
@@ -251,6 +291,14 @@
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/082193edc05c.html",
       "condition": "used",
       "price": 34816.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota Prius Plug-In Hybrid 2026 for salein Surrey",
+      "vin": "JTDACACU8T3074530",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/b1d93ecbf96e.html",
+      "condition": "used",
+      "price": 34876.0,
       "price_currency": "CAD"
     },
     {
@@ -483,7 +531,7 @@
       "make": "Mercedes-Benz",
       "model": "GLE",
       "condition": "used",
-      "price": 37271.0,
+      "price": 34866.0,
       "price_currency": "CAD"
     },
     {
@@ -505,18 +553,7 @@
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 17411.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Elantra ",
-      "vin": "KMHLM4AG8MU098581",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/8fc933abec8e.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 17411.0,
+      "price": 16766.0,
       "price_currency": "CAD"
     },
     {
@@ -572,6 +609,17 @@
       "model": "A 250 4MATIC Hatchin Surrey",
       "condition": "used",
       "price": 27486.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Mercedes-Benz C 300 4MATIC Coupein Surrey",
+      "vin": "W1KWJ8EB6NG112905",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/32e40e6e5fb5.html",
+      "year": 2022,
+      "make": "Mercedes-Benz",
+      "model": "C 300 4MATIC Coupein Surrey",
+      "condition": "used",
+      "price": 37966.0,
       "price_currency": "CAD"
     },
     {
@@ -648,7 +696,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 36868.0,
+      "price": 35366.0,
       "price_currency": "CAD"
     },
     {
@@ -670,7 +718,7 @@
       "make": "Mercedes-Benz",
       "model": "GLS",
       "condition": "used",
-      "price": 89592.0,
+      "price": 87566.0,
       "price_currency": "CAD"
     },
     {
@@ -685,17 +733,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Tucson Hybrid ",
-      "vin": "KM8JCCD17RU207986",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/ee31282d77da.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "used",
-      "price": 38679.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB0RJ605667",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/d2084e447eaf.html",
@@ -703,7 +740,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 34990.0,
+      "price": 34166.0,
       "price_currency": "CAD"
     },
     {
@@ -714,51 +751,7 @@
       "make": "Mercedes-Benz",
       "model": "GLB",
       "condition": "used",
-      "price": 34990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Kicks S Fwdin Surrey",
-      "vin": "3N1CP5BV6RL537943",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/3482fec80b63.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 19886.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Kicks ",
-      "vin": "3N1CP5CV9RL580915",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/edd913b1dc67.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 22687.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota bZ4X ",
-      "vin": "JTMABACA2RA052617",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/a74b55927230.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "bZ4X",
-      "condition": "used",
-      "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Cadillac OPTIQ ",
-      "vin": "3GYK3GMR5SS256867",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/ab36bc2e4ffa.html",
-      "year": 2025,
-      "make": "Cadillac",
-      "model": "OPTIQ",
-      "condition": "used",
-      "price": 55994.0,
+      "price": 32866.0,
       "price_currency": "CAD"
     },
     {
@@ -806,17 +799,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Audi A3 SEDAN ",
-      "vin": "WAUGUCGY0TA016582",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/7428ced579c9.html",
-      "year": 2026,
-      "make": "Audi",
-      "model": "A3 SEDAN",
-      "condition": "used",
-      "price": 33990.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Mercedes-Benz GLA 250 4MATIC SUVin Surrey",
       "vin": "W1N4N4HB7TJ762006",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/42bb266215a4.html",
@@ -824,7 +806,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 36617.0,
+      "price": 37726.0,
       "price_currency": "CAD"
     },
     {
@@ -835,7 +817,7 @@
       "make": "Mercedes-Benz",
       "model": "GLA",
       "condition": "used",
-      "price": 39486.0,
+      "price": 39166.0,
       "price_currency": "CAD"
     },
     {
@@ -1067,17 +1049,6 @@
       "model": "Sprinter",
       "condition": "new",
       "price": 67081.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Prius Plug-In Hybrid ",
-      "vin": "JTDACACU8T3074530",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/b1d93ecbf96e.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Prius Plug-In Hybrid",
-      "condition": "used",
-      "price": 36990.0,
       "price_currency": "CAD"
     },
     {
