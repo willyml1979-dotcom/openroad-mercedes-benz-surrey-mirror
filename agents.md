@@ -7,7 +7,7 @@ OpenRoad Mercedes Benz Surrey is a  dealership in Surrey. This site is an AI-rea
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/ and https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ (about 115 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/ and https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/ (about 112 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/llms.txt

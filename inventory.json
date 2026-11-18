@@ -1,7 +1,7 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-11-17T11:19:15",
-  "vehicle_count": 115,
+  "generated_at": "2026-11-18T00:46:54",
+  "vehicle_count": 112,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -179,6 +179,38 @@
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/4194ff553003.html",
       "condition": "used",
       "price": 33369.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V 2023 for salein Surrey",
+      "vin": "2HKRS6H91PH203936",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/5c983f0cb162.html",
+      "condition": "new",
+      "price": 37216.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen ID.4 2023 for salein Surrey",
+      "vin": "1V29NPE81PC057931",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/949efe91747a.html",
+      "condition": "new",
+      "price": 35666.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Mustang Mach-E 2024 for salein Surrey",
+      "vin": "3FMTK1R43RMA00759",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/83c267e15858.html",
+      "condition": "new",
+      "price": 35956.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "BMW X2 2025 for salein Surrey",
+      "vin": "WBX63GM02S5347312",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/72804248e1fd.html",
+      "condition": "new",
+      "price": 35156.0,
       "price_currency": "CAD"
     },
     {
@@ -556,17 +588,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda CR-V ",
-      "vin": "2HKRS6H91PH203936",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/5c983f0cb162.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 39116.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Mercedes-Benz EQE 350 4MATIC SUVin Surrey",
       "vin": "4JGGM1CB0PA012106",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/72c40238902d.html",
@@ -630,50 +651,6 @@
       "model": "Sprinter",
       "condition": "used",
       "price": 72990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Volkswagen ID.4 ",
-      "vin": "1V29NPE81PC057931",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/949efe91747a.html",
-      "year": 2023,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "new",
-      "price": 36616.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Cadillac LYRIQ ",
-      "vin": "1GYKPMRK4RZ134271",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/b62e0ea6c07b.html",
-      "year": 2024,
-      "make": "Cadillac",
-      "model": "LYRIQ",
-      "condition": "new",
-      "price": 44928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Mustang Mach-E ",
-      "vin": "3FMTK1R43RMA00759",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/83c267e15858.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "new",
-      "price": 37116.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Genesis GV60 ",
-      "vin": "KMUKEDSB7RU022953",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/92e491f4af7b.html",
-      "year": 2024,
-      "make": "Genesis",
-      "model": "GV60",
-      "condition": "new",
-      "price": 49969.0,
       "price_currency": "CAD"
     },
     {
@@ -751,17 +728,6 @@
       "model": "bZ4X",
       "condition": "used",
       "price": 38990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 BMW X2 ",
-      "vin": "WBX63GM02S5347312",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/72804248e1fd.html",
-      "year": 2025,
-      "make": "BMW",
-      "model": "X2",
-      "condition": "new",
-      "price": 35786.0,
       "price_currency": "CAD"
     },
     {
@@ -1125,17 +1091,6 @@
       "model": "GLA",
       "condition": "new",
       "price": 62250.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mercedes-Benz GLB 250 4MATIC SUV demoin Surrey",
-      "vin": "W1N4M4HB7TW481751",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/new/46867571cd81.html",
-      "year": 2026,
-      "make": "Mercedes-Benz",
-      "model": "GLB",
-      "condition": "new",
-      "price": 76620.0,
       "price_currency": "CAD"
     },
     {
