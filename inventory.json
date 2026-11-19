@@ -1,6 +1,6 @@
 {
   "dealership": "Openroad Mercedes Benz Surrey",
-  "generated_at": "2026-11-18T20:18:18",
+  "generated_at": "2026-11-18T21:30:24",
   "vehicle_count": 110,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -58,7 +58,7 @@
       "vin": "JA4AJ4AW0KU604083",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/84aab52a73c7.html",
       "condition": "used",
-      "price": 16990.0,
+      "price": 15231.0,
       "price_currency": "CAD"
     },
     {
@@ -94,6 +94,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Kia Sportage 2021 for salein Surrey",
+      "vin": "KNDPNCAC8M7869453",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/14ad2b2497ed.html",
+      "condition": "used",
+      "price": 20221.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mitsubishi RVR 2021 for salein Surrey",
       "vin": "JA4AJVAW7MU605109",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/c45a157f902a.html",
@@ -102,11 +110,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "BMW M3 2022 for salein Surrey",
+      "vin": "WBS53AY05NFM88768",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/8f25f4994cde.html",
+      "condition": "used",
+      "price": 77666.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Mazda CX-30 2022 for salein Surrey",
       "vin": "3MVDMBCL2NM410342",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/9562fc2100f8.html",
       "condition": "used",
       "price": 24866.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Tesla Model S 2022 for salein Surrey",
+      "vin": "5YJSA1E56NF480604",
+      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/4d852f887541.html",
+      "condition": "used",
+      "price": 65101.0,
       "price_currency": "CAD"
     },
     {
@@ -498,7 +522,7 @@
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 16990.0,
+      "price": 15231.0,
       "price_currency": "CAD"
     },
     {
@@ -557,17 +581,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Kia Sportage ",
-      "vin": "KNDPNCAC8M7869453",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/14ad2b2497ed.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 20391.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Mercedes-Benz GLC 300 4MATIC SUVin Surrey",
       "vin": "W1N0G8EB2MV319888",
       "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/22f5f7eec5f5.html",
@@ -587,17 +600,6 @@
       "model": "RVR",
       "condition": "used",
       "price": 16466.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 BMW M3 ",
-      "vin": "WBS53AY05NFM88768",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/8f25f4994cde.html",
-      "year": 2022,
-      "make": "BMW",
-      "model": "M3",
-      "condition": "used",
-      "price": 77816.0,
       "price_currency": "CAD"
     },
     {
@@ -630,7 +632,7 @@
       "make": "Mercedes-Benz",
       "model": "GLC",
       "condition": "used",
-      "price": 34611.0,
+      "price": 33661.0,
       "price_currency": "CAD"
     },
     {
@@ -653,17 +655,6 @@
       "model": "GLC",
       "condition": "used",
       "price": 43990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Tesla Model S ",
-      "vin": "5YJSA1E56NF480604",
-      "url": "https://willyml1979-dotcom.github.io/openroad-mercedes-benz-surrey-mirror/used/4d852f887541.html",
-      "year": 2022,
-      "make": "Tesla",
-      "model": "Model S",
-      "condition": "used",
-      "price": 66541.0,
       "price_currency": "CAD"
     },
     {
